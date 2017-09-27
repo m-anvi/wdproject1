@@ -4,6 +4,11 @@ h1 {
 	text-align: center;
 	}
 
+h2{
+	color: teal;
+	text-align: center;
+}
+	
 h3{
 	color:teal;
 	font-style: italic;
@@ -12,6 +17,8 @@ h3{
 
 table{
 	position: center;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 p{ 
@@ -19,5 +26,6 @@ p{
 	text-align: center;
 }
 
-
-
+a{
+	text-align:center;
+}
